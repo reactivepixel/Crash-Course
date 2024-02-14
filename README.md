@@ -51,6 +51,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Best Practices
 1. **.ignore:**
     - Ignore personal customization files
+    - always detailed with commits
 ## Collaborators
 1. **Chris Chapman:**
     - Love Death Robots
+    **Tyler Liston:**
+    - I always learn
