@@ -52,8 +52,12 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **.ignore:**
     - Ignore personal customization files
     - always detailed with commits
+    - Always commit major changes and push to feature branch
 ## Collaborators
 1. **Chris Chapman:**
     - Love Death Robots
     **Tyler Liston:**
     - I always learn
+1. - Love Death Robots
+1. **Sylas Bravheart-Kern:**
+    -I love c++
