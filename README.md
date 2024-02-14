@@ -49,8 +49,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 # Content
 
 ## Best Practices
-1. **Title:**
-    - Details or example
+1. **Git Feature Branch Workflow:**
+    - You're watching it if you see this demo live, or catch a video
 ## Collaborators
-1. **Developer Name:**
-    - Short Bio Description
+1. **Chris Chapman:**
+    - I make computers go beep and bots run the show.
