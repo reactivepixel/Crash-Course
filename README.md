@@ -56,8 +56,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Collaborators
 1. **Chris Chapman:**
     - Love Death Robots
-    **Tyler Liston:**
+1.   **Tyler Liston:**
     - I always learn
-1. - Love Death Robots
 1. **Sylas Bravheart-Kern:**
     -I love c++
