@@ -49,8 +49,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 # Content
 
 ## Best Practices
-1. **Title:**
-    - Details or example
+1. **.ignore:**
+    - Ignore personal customization files
 ## Collaborators
-1. **Developer Name:**
-    - Short Bio Description
+1. **Chris Chapman:**
+    - Love Death Robots
