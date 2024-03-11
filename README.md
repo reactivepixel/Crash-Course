@@ -65,33 +65,18 @@ The objective of this demo project is to simulate a collaborative environment wh
 	- I love to code
 1. **Bastion**
     - I love to code
+1. ** Jasen**
+    -I love c++
+1. **Matthew Weaver**
+    - I love Java... err, I mean C++ 
+1. ***Jack San Vicente***
+- Category 5 Anomaly: Can deal psychic damage via puns.
 1. **Jasen**
 1. **Andy La :**
    -I enjoy anime.
+1. ***Schimtywerberjaegermanjensen***
+- Local goblin that breaks into people's fridges at 3am and eats all their shredded cheese.
 1. **Ryan Berner:**
     - I like to steal sandwiches
-1. **Matthew Weaver**
-    - I love Java... err, I mean C++
-    
-1. ***Jack San Vicente***
-- Category 5 Anomaly: Can deal psychic damage via puns.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2. ***Schimtywerberjaegermanjensen***
-- Local goblin that breaks into people's fridges at 3am and eats all their shredded cheese.
-
-3. ***Gorshred Destroyer Of Worlds***
-- Still searching for his missing ham and cheese sandwich
+1. ***Gorshred Destroyer Of Worlds***
+- Swore vengeance on whoever stole his ham and cheese sandwich
