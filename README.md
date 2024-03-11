@@ -55,7 +55,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - always detailed with commits
     - Always commit major changes and push to feature branch
 ## Collaborators
-1. **Chris Chapman:** some change anywhere
+1. **Ryan Berner:** some change anywhere
     - Love Death Robots
 1.   **Tyler Liston:**
     - I always learn
