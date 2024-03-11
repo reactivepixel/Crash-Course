@@ -57,13 +57,13 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Collaborators
 1. **Ryan Berner:** some change anywhere
     - Love Death Robots
-1.   **Tyler Liston:**
+1. **Tyler Liston:**
     - I always learn
 1. **Sylas Bravheart-Kern:**
-    -I love c++
-1. **Katie Bloomsfield :**
+    - I love c++
+1. **Katie Bloomsfield:**
 	- I love to code
-1. Bastion
+1. **Bastion**
     - I love to code
 1. ** Jasen**
     -I love c++
