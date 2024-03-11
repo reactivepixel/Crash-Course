@@ -61,5 +61,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I always learn
 1. **Sylas Bravheart-Kern:**
     -I love c++
-1. **Katie:**
+1. **Katie Bloomsfield :**
 	- I love to code
+1. Bastion
+    - I love to code
