@@ -1,4 +1,5 @@
 ## Project: Collaborative README.md Editing and GitHub Workflow Demo
+##### Last Updated: 2024-03-11
 
 ### Objective:
 The objective of this demo project is to simulate a collaborative environment where multiple developers will work on individual sections of a README.md file. The README.md file will then go through various stages of development using GitHub workflow, including branching, merging, and pull requests, ultimately leading to a tagged release on the master branch.
