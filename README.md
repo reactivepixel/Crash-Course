@@ -55,7 +55,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - always detailed with commits
     - Always commit major changes and push to feature branch
 ## Collaborators
-1. **Chris (Triage) Chapman:**
+1. **Chris (Triage is #1) Chapman:**
     - Node.js Dev with some Python and Data Science Love
 1. **Tyler Liston:**
     - I always learn
