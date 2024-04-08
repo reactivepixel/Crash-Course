@@ -55,8 +55,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - always detailed with commits
     - Always commit major changes and push to feature branch
 ## Collaborators
-1. **Chris Chapman:**
-    - Love Death Robots
+1. **Chris (Triage has found the One Piece) Chapman:**
+    - Now a C++ master
 1. **Tyler Liston:**
     - I always learn
 1. **Sylas Bravheart-Kern:**
@@ -65,7 +65,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 	- I love to code
 1. **Bastion**
     - I love to code
-1. ** Jasen**
+1. **Jasen**
     -I love c++
 1. **Matthew Weaver**
     - I love Java... err, I mean C++ 
