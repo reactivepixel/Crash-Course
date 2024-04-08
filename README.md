@@ -56,7 +56,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Always commit major changes and push to feature branch
 ## Collaborators
 1. **Chris (Triage has found the One Piece) Chapman:**
-    - Node.js Dev with some Python and Data Science Love
+    - Now a C++ master
 1. **Tyler Liston:**
     - I always learn
 1. **Sylas Bravheart-Kern:**
