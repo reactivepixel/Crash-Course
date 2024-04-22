@@ -55,6 +55,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - always detailed with commits
     - Always commit major changes and push to feature branch
 ## Collaborators
+
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
 1. **Tyler Liston:**
@@ -80,3 +81,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I like to steal sandwiches
 1. ***Gorshred Destroyer Of Worlds***
 - Swore vengeance on whoever stole his ham and cheese sandwich
+1. I'm going to ruin your day!!
+   - Muwahahahaha
