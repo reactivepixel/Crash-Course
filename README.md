@@ -93,4 +93,4 @@ The objective of this demo project is to simulate a collaborative environment wh
 - Not a candle though
 1. **Daniel Bumbarger**
     - My feet smell
-<<<<<<< HEAD
+
