@@ -81,4 +81,19 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I like to steal sandwiches
 1. ***Gorshred Destroyer Of Worlds***
 - Swore vengeance on whoever stole his ham and cheese sandwich
+<<<<<<< HEAD
 1. Master_Blaster
+=======
+1. **Noah Bisping (Whiplash)**
+- The one who actually stole the ham and cheese sandwich
+1. ***Master_Blaster***
+- I sell sandwhiches.
+1. I'm going to ruin your day!!
+   - Muwahahahaha
+2. **Diogo Avila** 
+- "Praise the Omnissaiah"
+- 1. ***Noah the man of wick***
+- Not a candle though
+1. **Daniel Bumbarger**
+    - My feet smell
+>>>>>>> e7c942f216e07b62205401d3e056ab77d15abd83
