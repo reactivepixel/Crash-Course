@@ -81,7 +81,6 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I like to steal sandwiches
 1. ***Gorshred Destroyer Of Worlds***
 - Swore vengeance on whoever stole his ham and cheese sandwich
-<<<<<<< HEAD
 1. ***Master_Blaster***
 - I sell sandwhiches.
 1. I'm going to ruin your day!!
@@ -92,3 +91,4 @@ The objective of this demo project is to simulate a collaborative environment wh
 - Not a candle though
 1. **Daniel Bumbarger**
     - My feet smell
+>>>>>>>>>>TAIL
