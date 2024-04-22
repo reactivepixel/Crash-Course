@@ -82,7 +82,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. ***Gorshred Destroyer Of Worlds***
 - Swore vengeance on whoever stole his ham and cheese sandwich
 <<<<<<< HEAD
-1. Master_Blaster
+1. ***Master_Blaster***
 - I sell sandwhiches.
 1. I'm going to ruin your day!!
    - Muwahahahaha
