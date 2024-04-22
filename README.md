@@ -80,3 +80,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I like to steal sandwiches
 1. ***Gorshred Destroyer Of Worlds***
 - Swore vengeance on whoever stole his ham and cheese sandwich
+1. **Lucas Fuica:**
+    - --|===> Sword
