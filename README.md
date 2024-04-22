@@ -81,6 +81,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I like to steal sandwiches
 1. ***Gorshred Destroyer Of Worlds***
 - Swore vengeance on whoever stole his ham and cheese sandwich
+
 1. I'm going to ruin your day!!
    - Muwahahahaha
 1. Master_Blaster
+2. **Diogo Avila** 
+- "Praise the Omnissaiah"
