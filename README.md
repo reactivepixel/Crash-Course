@@ -71,25 +71,25 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Matthew Weaver**
     - I love Java... err, I mean C++ 
 1. ***Jack San Vicente***
-- Category 5 Anomaly: Cannot deal psychic damage via puns.
+    - Category 5 Anomaly: Cannot deal psychic damage via puns.
 1. **Jasen**
 1. **Andy La :**
    -I enjoy anime.
 1. ***Schimtywerberjaegermanjensen***
-- Local goblin that breaks into people's fridges at 3am and eats all their shredded cheese.
+    - Local goblin that breaks into people's fridges at 3am and eats all their shredded cheese.
 1. **Ryan Berner:**
     - I like to steal sandwiches
 1. ***Gorshred Destroyer Of Worlds***
-- Swore vengeance on whoever stole his ham and cheese sandwich
+    - Swore vengeance on whoever stole his ham and cheese sandwich
 1. **Noah Bisping (Whiplash)**
-- The one who actually stole the ham and cheese sandwich
+    - The one who actually stole the ham and cheese sandwich
 1. ***Master_Blaster***
-- I sell sandwhiches.
+    - I sell sandwhiches.
 1. I'm going to ruin your day!!
    - Muwahahahaha
 2. Diogo Avila
-- 1. ***Noah the man of wick***
-- Not a candle though
+    - 1. ***Noah the man of wick***
+    - Not a candle though
 1. **Daniel Bumbarger**
     - My feet smell
 1. one more time
