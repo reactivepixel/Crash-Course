@@ -82,8 +82,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Swore vengeance on whoever stole his ham and cheese sandwich
 1. **Noah Bisping (Whiplash)**
     - The one who actually stole the ham and cheese sandwich
-1. **Jane Austin**
+1. **Jane Doe**
     - I sell sandwhiches.
+    - I have no head.
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
