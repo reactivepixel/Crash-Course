@@ -159,7 +159,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 1.  -I gave geese alka seltzer 
 1. Hat on a Kid
     - PK Fire
-    - OK
 1. **ShaneTrain**
 1.  - Kendrick won
  1. - I like food
