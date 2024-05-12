@@ -84,6 +84,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Swore vengeance on whoever stole his ham and cheese sandwich
 1. **Noah Bisping (Whiplash)**
     - The one who actually stole the ham and cheese sandwich
+1. ***Lord Grand High Emperor Master_Blaster ***
+    - I break keyboards!
+1. I'm going to ruin your day!!
 1. **Jane Doe(dead)**
     - I sell sandwhiches.
     - I also write books.
@@ -103,6 +106,10 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I am the captain now
    - I'm going to ruin your day!!
    - wonp wonp
+ ***Lord Grand High Emperor Master_Blaster ***
+    - I break keyboards!
+1. I'm going to ruin your day!!
+   - Muwahahahaha
    - Muwahahahaha
    - I server father 
 2. Diogo Avila
@@ -115,7 +122,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - ooooooo
     - ooooooooooooooooooo
 1. Jone Smith
-    - is your father
 1. Becky Jones
+1. ***COL. M.D Snook3m***
+1.  -I gave geese alka seltzer 
 1. Jaxx Huntley
     -Is a menace
