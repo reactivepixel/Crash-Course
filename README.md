@@ -84,7 +84,16 @@ The objective of this demo project is to simulate a collaborative environment wh
     - The one who actually stole the ham and cheese sandwich
 1. **Jane Doe**
     - I sell sandwhiches.
-    - I have no head.
+    - I also write books.
+    - I also write books about sandwiches.
+    - I also sell books about sandwiches.
+    - I also sell sandwiches about books.
+    - I also write sandwiches about books.
+    - I also write sandwiches about sandwiches.
+    - I also sell books about books.
+    - I also sell sandwiches about sandwiches.
+    - I also write books about books.
+    - I also write sandwiches about books.
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
