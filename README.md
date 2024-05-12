@@ -109,8 +109,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. one more time
     - ooooooo
 1. Jone Smith
-1. Becky Jones
-1. Jaxx Huntley
+Jaxx Huntley
     -Is a menace
 1. **Jasen**
 	- I love c++
@@ -118,3 +117,13 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I love c++
     - I love c++
     - I love c++
+1. Inigo Montoya
+    - You killed my father
+1. Becky Jones
+1. Underwood
+    - Is a network of tiny fun guys
+1. Becky Jones
+1. **johnny mark**
+    - i eat cds
+    - serving curt 24/7
+1. Becky Jones
