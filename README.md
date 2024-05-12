@@ -82,7 +82,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Swore vengeance on whoever stole his ham and cheese sandwich
 1. **Noah Bisping (Whiplash)**
     - The one who actually stole the ham and cheese sandwich
-1. **Jane Doe**
+1. **Jane Doe(dead)**
     - I sell sandwhiches.
     - I also write books.
     - I also write books about sandwiches.
@@ -97,6 +97,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
+   - wonp wonp
    - Muwahahahaha
 2. Diogo Avila
     - 1. **Noah the man of wick**
@@ -107,3 +108,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - ooooooo
 1. Jone Smith
 1. Becky Jones
+1. Jaxx Huntley
+    -Is a menace
