@@ -149,7 +149,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. one more time
     - ooooooo
 1. Jone Smith
-<<<<<<< HEAD
 1. Inigo Montoya
     - You killed my father
 1. Underwood
@@ -158,8 +157,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **johnny mark**
     - i eat cds
     - serving curt 24/7
-    - Is a network of tiny fun guys
-=======
 1. ***COL. M.D Snook3m***
 1.  -I gave geese alka seltzer 
 1. Hat on a Kid
