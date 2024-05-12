@@ -1,4 +1,4 @@
-## Project: Collaborative README.md Editing and GitHub Workflow Demo
+﻿## Project: Collaborative README.md Editing and GitHub Workflow Demo
 ##### Last Updated: 2024-03-13
 
 ### Objective:
@@ -59,6 +59,29 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 ## Collaborators
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⡾⠿⠿⠿⠿⠿⠿⠿⠿⣿⣿⣿⣿⣛⣛⠛⠛⠛⠛⠛⠻⠿⠷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⡾⢟⣛⣏⣉⡉⠁⠀⠀⠀⠈⠉⠉⣉⣩⡤⠤⠤⠤⠤⣤⣬⣍⡙⠳⠶⣤⣀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⣀⣤⡤⢤⣤⣤⣀⡉⠉⠉⠀⠀⠀⠀⢠⡶⠚⠓⠒⠶⠶⠮⣍⣛⠦⣝⠳⢦⡀⠀⠀⠀⠻⣦⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣿⠃⠀⠀⠀⢠⡾⠋⠁⠀⠀⠀⠀⢠⡀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣮⡻⣦⡙⠂⠀⠀⠀⠹⣧⡀⠀⠀⠀⠀⠀⠀
+⢀⣀⣀⣀⣸⣿⣦⣄⣤⣤⣾⣄⣀⣀⣠⣤⣤⣤⣼⣷⣄⣀⣠⣤⣤⣼⣀⣀⣤⣾⣿⣿⣿⣿⣦⣤⣤⣠⣷⣼⣿⣤⣤⣤⡄⠀⢻⣷⡀⠀⠀⠀⠀⠀
+⢸⣿⣿⡿⠛⢻⣿⠛⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠛⠛⠛⣿⡟⠛⢻⣿⡛⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠠⣤⣽⢿⣦⡀⠀⠀⠀
+⠘⢻⣿⣿⣶⡿⠟⣷⣶⠈⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⣿⣿⣶⡌⠉⣿⣶⡈⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣶⣄⠀⠈⣿⢿⣄⠀⠀
+⠀⣸⣿⠉⣿⣿⣿⣟⣙⣷⣶⠉⢙⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠉⠙⣿⣿⣶⣟⣙⣷⣶⠉⢉⣿⣿⣿⣿⣿⠋⣙⣷⠀⠀⠙⣷⡄⢸⡄⢻⣷⡀
+⠀⢻⡏⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠰⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣼⠿⠛⣿⣶⣄⡀⢸⡇⢸⠀⢸⣿⡇
+⠀⠈⣿⡦⣴⣯⠀⣿⣿⣧⡀⠀⠀⠀⠐⠻⠿⣧⡀⠀⠀⠀⠀⠶⠶⢶⣤⣤⣿⠁⠀⠀⠀⣰⣶⣴⣿⣿⠟⠉⠀⢀⣴⣿⠋⠉⠙⣿⠃⣾⢀⣿⣿⠇
+⠀⠀⠈⢿⡄⠀⠀⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠈⠻⣶⡶⣶⠀⠀⠀⣀⣒⣻⣷⣶⠶⠿⠛⠋⠉⠀⣠⣿⣀⣤⣶⣿⣿⠏⠀⠀⠀⠧⠸⣯⣾⡿⠁⠀
+⠀⠀⠀⢸⡇⠀⠸⣿⣏⠈⣿⠀⠙⣿⠛⠛⠷⢶⣶⣿⠿⠿⢿⣿⠛⠛⠉⠉⠀⢿⡆⠀⢀⣤⣴⣾⣿⣿⠋⠁⣠⡿⠃⠀⠀⠀⠀⢠⣿⡿⠛⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⣿⣿⣿⣿⣆⣴⣿⣆⣀⢀⣠⣿⣅⣀⣀⣴⣿⡀⢀⣀⣀⣴⣾⣿⣿⡿⠿⠋⠁⠘⣿⣄⣼⠏⠀⠀⠀⠀⠀⢠⣿⡿⠁⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠋⢿⣇⠀⠀⠀⠀⣀⣽⠟⠁⠀⠀⠀⠀⠀⢠⣿⡟⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⢹⣯⣿⡏⠹⣟⠛⢻⣿⣿⣿⣿⡟⠉⠉⠉⠉⣿⠀⠀⠀⠀⠀⠈⢻⣆⣀⣴⠾⠋⠀⠀⠀⠀⠀⠀⢀⣴⣿⠏⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⠀⠙⠿⣧⣤⣿⣿⣿⣿⣟⠁⢸⣧⡀⠀⠀⢀⣿⣀⣀⣀⣤⣤⣴⠾⠟⠋⢁⣀⠤⠒⣠⣴⠞⣀⣴⡿⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡇⠀⠀⢀⣤⣶⣿⣿⣿⡿⠋⠉⠙⠛⠛⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠀⢀⣤⠴⠚⠉⣤⠖⠋⣩⣴⣾⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣸⣁⣤⣾⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡤⠒⠋⠉⠀⠐⠛⣉⣤⣶⠿⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣠⣶⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⣀⣈⠉⠉⠉⠀⠀⠄⠤⠀⠀⠀⠉⠉⠀⣀⣤⣶⣾⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⣿⡃⠀⣹⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣶⡿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠻⣿⣶⣿⠟⠻⣶⣤⣄⡀⠀⠀⠀⠀⣤⣤⣤⣤⣶⣶⣿⡿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠉⠀⠀⠀⠀⠉⠙⠛⠛⠛⠛⠛⠛⠛⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
 1. **Tyler Liston:**
@@ -82,6 +105,24 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Swore vengeance on whoever stole his ham and cheese sandwich
 1. **Noah Bisping (Whiplash)**
     - The one who actually stole the ham and cheese sandwich
+1. ***Lord Grand High Emperor Master_Blaster ***
+    - I break keyboards!
+    - ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
+░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
+░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
+░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░
+░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░
+█░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█
+█░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
+░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░
+░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░
+░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░
+░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░
+░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
+1. I'm going to ruin your day!!
 1. **Jane Doe**
     - I sell sandwhiches.
     - I also write books.
@@ -108,13 +149,21 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. one more time
     - ooooooo
 1. Jone Smith
-1. Becky Jones
+<<<<<<< HEAD
 1. Inigo Montoya
     - You killed my father
-1. Becky Jones
 1. Underwood
     - Is a network of tiny fun guys
 1. Becky Jones
 1. **johnny mark**
     - i eat cds
     - serving curt 24/7
+    - Is a network of tiny fun guys
+=======
+1. ***COL. M.D Snook3m***
+1.  -I gave geese alka seltzer 
+1. Hat on a Kid
+    - PK Fire
+1. **ShaneTrain**
+1.  - Kendrick won
+ 1. - I like food
