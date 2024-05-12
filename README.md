@@ -65,7 +65,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I love c++
 1. **Katie Bloomsfield:**
 	- I love to code
-1. **Bastion**
+1. **Bastion** 
     - I love to code
 1. **Jasen**
     -I love c++
