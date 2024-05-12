@@ -157,4 +157,4 @@ The objective of this demo project is to simulate a collaborative environment wh
     - PK Fire
 1. **Shane Parish**
 1.  - Kendrick won
- 1. - I like food
+    - I like food
