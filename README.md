@@ -108,5 +108,3 @@ The objective of this demo project is to simulate a collaborative environment wh
     - ooooooo
 1. Jone Smith
 1. Becky Jones
-1. James Preston II
-    - PK Fire.
