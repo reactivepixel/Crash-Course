@@ -94,6 +94,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I also sell sandwiches about sandwiches.
     - I also write books about books.
     - I also write sandwiches about books.
+    - I eat the books.
+    - i serve mother <3
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
