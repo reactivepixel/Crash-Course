@@ -207,7 +207,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 1.  - I
     - Am
     - Speed
-<<<<<<< HEAD
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
 1. **Tyler Liston:**
@@ -249,12 +248,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 ░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░
 ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░
 1. I'm going to ruin your day!!
->>>>>>>>> Temporary merge branch 2
-=========
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
->>>>>>>>> Temporary merge branch 2
    - Muwahahahaha
 2. Diogo Avila
     - 1. **Noah the man of wick**
@@ -273,10 +269,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - i eat cds
     - serving curt 24/7
     - phd in mothering
-    - has never sent death threats
-=======
-1. Jaxx 
-    -                                                                                                                              ▒▒                  ░░            
+    - has never sent death threats                                                                                                                         ▒▒                  ░░            
                                                                                                                                                                 
                                                                                                                                       ▒▒▒▒▒▒          ▒▒        
                                                                                                                 ░░░░░░              ░░▒▒▒▒                      
