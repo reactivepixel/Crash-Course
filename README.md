@@ -181,11 +181,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
-=========
 1. ***Lord Grand High Emperor Master_Blaster ***
     - I break keyboards!
 1. I'm going to ruin your day!!
->>>>>>>>> Temporary merge branch 2
    - Muwahahahaha
    - Muwahahahaha
    - I server father 
