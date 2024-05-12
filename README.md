@@ -94,6 +94,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I also sell sandwiches about sandwiches.
     - I also write books about books.
     - I also write sandwiches about books.
+    - I eat the books.
 1. Tom Hanks
    - I am the captain now
    - I'm going to ruin your day!!
@@ -106,6 +107,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. one more time
     - ooooooo
 1. Jone Smith
+1. Becky Jones
+1. Inigo Montoya
+    - You killed my father
 1. Becky Jones
 1. Underwood
     - Is a network of tiny fun guys
