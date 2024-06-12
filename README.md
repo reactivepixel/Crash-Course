@@ -180,20 +180,25 @@ The objective of this demo project is to simulate a collaborative environment wh
     - serving curt 24/7
     - phd in mothering
 1. ***COL. M.D Snook3m***
-1.  -I gave geese alka seltzer 
+1.  -I gave geese alka seltzer
 1. ***Chris Chapman***
     - I almost lost a foot in a skate boarding 'accident'
 1. **Nekaou Mike**
-    1. -The cats will now invade this file ;> <br/>
+2. -The cats will now invade this file ;> <br/>
 ```
       \    /\
        )  ( ')
       (  /  )
        \(__)|
 ```
+    -The cats will now invade this file ;>
 1. **SuperFernDev**
+    -Chat is this real?
+1. **Aidan**
+    - Probably faster than me
+1. **Aldia, scholar of the first sin**
+    - Def faster than me
    1.  -Hi mom
-
 ```
     /\_____/\
    /  o   o  \
