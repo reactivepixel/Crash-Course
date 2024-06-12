@@ -186,7 +186,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Nekaou Mike**
     -The cats will now invade this file ;>
 1. **SuperFernDev**
-    -Hi mom
+    -Chat is this real?
 1. **Aidan**
     - Probably faster than me
 1. **Aldia, scholar of the first sin**
