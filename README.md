@@ -185,10 +185,10 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I almost lost a foot in a skate boarding 'accident'
 1. **Nekaou Mike**
     1. -The cats will now invade this file ;> <br/>
-          \    /\<br/>
-       )  ( ')<br/>
-      (  /  )<br/>
-       \(__)|<br/>
+          \    /\ <br/>
+       )  ( ') <br/>
+      (  /  ) <br/>
+       \(__)| <br/>
 1. **SuperFernDev**
    1.  -Hi mom
 
