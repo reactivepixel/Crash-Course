@@ -276,3 +276,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 ![CAT](cat100.jpg)
 ![CAT](cat100.jpg)
 ![CAT](cat200.jpg)
+```
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)  
+```
