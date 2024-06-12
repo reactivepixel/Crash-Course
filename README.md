@@ -194,6 +194,15 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **SuperFernDev**
    1.  -Hi mom
 
+```
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+```
 ![CAT](cat100.jpg)
 ![CAT](cat100.jpg)
 ![CAT](cat100.jpg)
