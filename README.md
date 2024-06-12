@@ -182,6 +182,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. ***COL. M.D Snook3m***
 1.  -I gave geese alka seltzer 
 **Nekaou Mike**
-    -The cats will now invade this file ;>1. 
+    -The cats will now invade this file ;>
 **SuperFernDev**
     -Hi mom
