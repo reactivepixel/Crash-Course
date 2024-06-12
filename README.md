@@ -186,14 +186,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Nekaou Mike**
     -The cats will now invade this file ;>
 1. **SuperFernDev**
-    -Hi mom
-1. **Aidan**
-    - Probably faster than me
-1. **Aldia, scholar of the first sin**
-    - no matter how tender, how exquisite, a lie will remain a lie. 
-    - Beyond the reach of Light, beyond the scope of Dark, what will we find?
-
-⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆⠄⠄⠄
+   
+   ⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆⠄⠄⠄
 ⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆⠄⠄
 ⠄⠄⡟⣼⣿⣿⣿⣿⣿⠄⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⠄⠄
 ⠄⢰⠃⣿⣿⠿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⠿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⡄⠄
