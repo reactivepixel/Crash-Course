@@ -184,6 +184,13 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. ***Chris Chapman***
     - I almost lost a foot in a skate boarding 'accident'
 1. **Nekaou Mike**
+2. -The cats will now invade this file ;> <br/>
+```
+      \    /\
+       )  ( ')
+      (  /  )
+       \(__)|
+```
     -The cats will now invade this file ;>
 1. **SuperFernDev**
     -Chat is this real?
@@ -192,8 +199,100 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Aldia, scholar of the first sin**
     - Def faster than me
    1.  -Hi mom
-
-![CAT](https://http.cat/status/100.png)
-![CAT](https://http.cat/status/200.png)
-
-can i update. bro
+```
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+```
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat100.jpg)
+![CAT](cat200.jpg)
+```
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)  
+```
