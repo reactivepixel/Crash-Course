@@ -186,45 +186,12 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Nekaou Mike**
     -The cats will now invade this file ;>
 1. **SuperFernDev**
-<<<<<<< HEAD
     -Hi mom
 1. **Aidan**
     - Probably faster than me
 1. **Aldia, scholar of the first sin**
     - Def faster than me
-=======
->>>>>>> 2881dc1f152be5f76a4764f92bb18a961a3c7df3
    1.  -Hi mom
 
-![CAT](http.cat/status/100.png)
-⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆⠄⠄⠄
-⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆⠄⠄
-⠄⠄⡟⣼⣿⣿⣿⣿⣿⠄⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⠄⠄
-⠄⢰⠃⣿⣿⠿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⠿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⡄⠄
-⠄⢸⢠⣿⣿⣧⡙⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠈⠛⢿⣿⣿⡇⠸⣿⡿⣸⡇⠄
-⠄⠈⡆⣿⣿⣿⣿⣦⡙⠳⠄⠄⠄⠄⠄⠄⢀⣠⣤⣀⣈⠙⠃⠄⠿⢇⣿⡇⠄
-⠄⠄⡇⢿⣿⣿⣿⣿⡇⠄⠄⠄⠄⠄⣠⣶⣿⣿⣿⣿⣿⣿⣷⣆⡀⣼⣿⡇⠄
-⠄⠄⢹⡘⣿⣿⣿⢿⣷⡀⠄⢀⣴⣾⣟⠉⠉⠉⠉⣽⣿⣿⣿⣿⠇⢹⣿⠃⠄
-⠄⠄⠄⢷⡘⢿⣿⣎⢻⣷⠰⣿⣿⣿⣿⣦⣀⣀⣴⣿⣿⣿⠟⢫⡾⢸⡟⠄.
-⠄⠄⠄⠄⠻⣦⡙⠿⣧⠙⢷⠙⠻⠿⢿⡿⠿⠿⠛⠋⠉⠄⠂⠘⠁⠞⠄⠄⠄
-⠄⠄⠄⠄⠄⠈⠙⠑⣠⣤⣴⡖⠄⠿⣋⣉⣉⡁⠄⢾⣦⠄⠄⠄⠄⠄⠄⠄⠄
-
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/100.png)
-![CAT](http.cat/status/200.png)
-
-
-Who am I?
+![CAT](https://http.cat/status/100.png)
 ![CAT](https://http.cat/status/200.png)
- what happened to aldia?
