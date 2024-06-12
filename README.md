@@ -188,60 +188,85 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **SuperFernDev**
    1.  -Hi mom
 
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/100.png>
-<img src="https://http.cat/status/200.png>
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/100.png)
+![CAT](http.cat/status/200.png)
