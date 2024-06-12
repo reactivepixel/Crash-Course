@@ -180,8 +180,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - serving curt 24/7
     - phd in mothering
 1. ***COL. M.D Snook3m***
-1.  -I gave geese alka seltzer 
-
+1.  -I gave geese alka seltzer
 1. ***Chris Chapman***
     - I almost lost a foot in a skate boarding 'accident'
 1. **Nekaou Mike**
