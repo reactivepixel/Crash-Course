@@ -167,7 +167,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Not a candle though
 1. **Daniel Bumbarger**
     - My feet smell
-1. one more time
+    - one more time
     - ooooooo
 1. Jone Smith
 1. Inigo Montoya
@@ -181,3 +181,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - phd in mothering
 1. ***COL. M.D Snook3m***
 1.  -I gave geese alka seltzer 
+1. ***Chris Chapman***
+    - I almost lost a foot in a skate boarding 'accident'
