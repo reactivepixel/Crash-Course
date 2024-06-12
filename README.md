@@ -186,7 +186,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I almost lost a foot in a skate boarding 'accident'
 =======
 **Nekaou Mike**
-    -The cats will now invade this file ;>1. 
+    -The cats will now invade this file ;>
 **SuperFernDev**
     -Hi mom
 >>>>>>> fa9057452558f4095d13d122cf7fdc8c7fcb5c07
