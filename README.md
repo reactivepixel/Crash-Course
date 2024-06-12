@@ -184,9 +184,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 1. ***Chris Chapman***
     - I almost lost a foot in a skate boarding 'accident'
-=======
-**Nekaou Mike**
+1. **Nekaou Mike**
     -The cats will now invade this file ;>
-**SuperFernDev**
+1. **SuperFernDev**
     -Hi mom
 
