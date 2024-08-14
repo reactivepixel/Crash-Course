@@ -56,7 +56,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - always detailed with commits
     - Always commit major changes and push to feature branch
 
-## Collaborators⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+## Collaborators
+1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀  - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
 1. **Tyler Liston:**
