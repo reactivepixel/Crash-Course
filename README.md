@@ -47,7 +47,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 - Emphasize the importance of adhering to the established workflow and version control practices.
 - Document any issues or lessons learned during the demo for future reference and improvement (Take notes).
 
-# Content
+# Contents, please add
 
 ## Best Practices
 
