@@ -59,6 +59,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Collaborators
 1. **Josh Smith:**
     - Hurricane Fighter
+1. Erick's
+    - Deadly Code Ninja
 1. **Katie:**
 	- The Great
 1. **Chapman:**
