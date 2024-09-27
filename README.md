@@ -59,6 +59,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Collaborators
 1. **Josh Smith:**
     - Hurricane Fighter
+1. **Chapman:**
+    - Expert
 1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
