@@ -57,8 +57,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Always commit major changes and push to feature branch
 
 ## Collaborators
-1. **Jon Smith:**
-    - Python expert
+1. **Josh Smith:**
+    - Hurricane Fighter
 1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
