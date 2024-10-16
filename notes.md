@@ -61,3 +61,9 @@ ctrl + c
 ```bash
 git merge <branch-name>
 ```
+
+### Tagging
+```bash
+git tag -a v1.0.0 -m "Version 1.0.0"
+git push origin --tags
+```
