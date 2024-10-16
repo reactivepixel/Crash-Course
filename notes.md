@@ -30,3 +30,13 @@ git push origin <branch-name>
 ```bash
 git status
 ```
+
+### Go To Branch
+```bash
+git checkout <branch-name>
+```
+
+### Create Branch
+```bash
+git checkout -b <branch-name>
+```
