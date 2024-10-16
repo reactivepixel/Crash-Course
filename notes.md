@@ -40,3 +40,19 @@ git checkout <branch-name>
 ```bash
 git checkout -b <branch-name>
 ```
+
+### Git Log
+```bash
+git log
+```
+
+### Hard Reset
+```bash
+git reset --hard HEAD
+git reset --hard <COMMIT_ID>
+```
+
+### in Terminal Stop doing that!
+```bash
+ctrl + c
+```
