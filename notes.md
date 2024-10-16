@@ -56,3 +56,8 @@ git reset --hard <COMMIT_ID>
 ```bash
 ctrl + c
 ```
+
+### Merge Branch
+```bash
+git merge <branch-name>
+```
