@@ -72,4 +72,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Erick:**
 	- The Great
 1. **Katie:**
-   - The Great
+    - The Great
+    - Now a C++ master
+1. **Light Christnizio**
+    - Supreme Omni-Coder of the Far Scripts
