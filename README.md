@@ -65,7 +65,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 	- The Great
 1. **Chapman:**
     - Expert
-1. **Chris:**⠀⠀⠀
+1. **Chris:**
     - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
