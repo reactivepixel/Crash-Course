@@ -71,3 +71,5 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Now a C++ master
 1. **Light Christnizio**
    - Supreme Omni-Coder of the Far Scripts
+1. **redsusbluegon**
+   - Omnipotent programmer
