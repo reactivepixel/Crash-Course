@@ -68,4 +68,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
-    - Now a C++ master
+   - Now a C++ master
+1. **Light Christnizio**
+   - Supreme Omni-Coder of the Far Scripts
