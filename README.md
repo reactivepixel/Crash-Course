@@ -59,14 +59,14 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Collaborators
 1. **Josh Smith:**
     - Hurricane Fighter
-1. Erick's
+1. **Erick:**
     - Deadly Code Ninja
 1. **Katie:**
 	- The Great
 1. **Chapman:**
     - Expert
-1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
-  - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+1. **Chris:**
+    - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
 1. **Erick:**
