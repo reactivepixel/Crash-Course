@@ -78,5 +78,7 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Supreme Omni-Coder of the Far Scripts
 1. **redsusbluegon**
    - Omnipotent programmer
-1. **Chris:**
+1. **Prof. Chapman:**
     - Breaker of Gits
+1 **MgstrMilitum**
+    -Brogrammer
