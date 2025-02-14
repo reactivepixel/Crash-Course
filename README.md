@@ -84,8 +84,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     -Brogrammer
 999. **Gareth:**
     - Lord Voldemolts Creator 
-Gah, this class blows, 
-    - hope no one finds out who wrote this! <insert death threat>
+Gah, this class blows, hope no one finds out who wrote this! <insert death threat>
+1. **Kyle May:**
+   - me
 1. ** Chris Chapman: **
     - has a fear of heights and is afraid of the dark.
     - is the worst coder in the world
