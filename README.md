@@ -63,8 +63,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Deadly Code Ninja
 1. **Katie:**
 	- The Great
-1. **Chapman:**
-    - Expert
+1. **Chris Chapman:**
+    - Expert in some things, but not all
 1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
