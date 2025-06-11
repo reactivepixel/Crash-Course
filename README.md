@@ -64,7 +64,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Katie:**
 	- The Great
 1. **Chris Chapman:**
-    - Expert in some things, but not all
+    - Expert knower of da code, for all intents and purposes
 1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
