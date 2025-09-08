@@ -67,4 +67,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Now a C++ master
     - naw, hes terribad
 1. Griffin
-   -dih dih ruining everything lalalalal
+   -dih dih ruining everything lalalalal  1. **Adam Garcia**
+    - I was here
