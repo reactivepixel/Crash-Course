@@ -48,23 +48,21 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 # Contents, please add
 
-## Best Practices
-
-![alt text](https://i.pinimg.com/564x/c3/fe/8a/c3fe8a0d6bcbcdeeb4d310e4f5e598e4.jpg)
-
 ## Collaborators
 1. **Josh Smith:**
     - Hurricane Fighter
-1. Erick's
+1. **Erick's**
     - Deadly Code Ninja
 1. **Katie:**
 	- The Great
 1. **Chris Chapman:**
     - Expert knower of da code, for all intents and purposes
-1. Howdy My name is Chris⠀⠀⠀⠀⠀⠀
-  - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+1. **Howdy My name is Chris**⠀⠀⠀⠀⠀⠀
+    - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
     - naw, hes terribad
-1. Griffin
-   -dih dih ruining everything lalalalal
+1. **Griffin**
+   - dih dih ruining everything lalalalal
+1. **Chapman**
+   - Orphaner of Chickens
