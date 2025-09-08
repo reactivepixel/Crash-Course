@@ -66,3 +66,7 @@ The objective of this demo project is to simulate a collaborative environment wh
    - dih dih ruining everything lalalalal
 1. **Chapman**
    - Orphaner of Chickens
+1. **Adam Garcia**
+   - I was here
+1. **Isaac Teran**
+   - I am here
