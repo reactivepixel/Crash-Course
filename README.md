@@ -70,3 +70,5 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I was here
 1. **Isaac Teran**
    - I am here
+1. **Palodious**
+   - Pew Pew
