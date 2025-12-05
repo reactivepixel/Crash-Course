@@ -77,3 +77,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Has Entered the Chat
 1. The Kracken
    - Gasp at my destruction!
+2 -Alexandre Nazario
+    - I turtles 
+1. **Brian Pearson:**
+    - Note for later: Need an F.
