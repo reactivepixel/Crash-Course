@@ -70,4 +70,4 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
 1. **Brayden:**
-    - The Lazy Newb
+    - The Lazy Noob
