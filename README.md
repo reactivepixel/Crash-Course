@@ -73,3 +73,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Baah
 1. Killer Instinct!
 	- Combo Breaker!
+1. **Brayden:**
+    - The Lazy Noob
+2 -Alexandre Nazario
+    - I turtles 
+1. **Brian Pearson:**
