@@ -73,4 +73,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 	- Combo Breaker!
 1. **Brayden:**
     - The Lazy Noob
+2 -Alexandre Nazario
+    - I turtles 
 1. **Brian Pearson:**
