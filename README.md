@@ -69,5 +69,5 @@ The objective of this demo project is to simulate a collaborative environment wh
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
-1. Chapman
-    - Has Entered the Chat
+1. Killer Instinct!
+	- Combo Breaker!
