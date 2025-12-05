@@ -75,5 +75,6 @@ The objective of this demo project is to simulate a collaborative environment wh
     - The Lazy Noob
 2 -Alexandre Nazario
     - I turtles 
+1. **Brian Pearson:**
 1.**Mike Giles**
     - why do i always lose 20 bucks when i gamble, sad panda...
