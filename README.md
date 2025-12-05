@@ -71,5 +71,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Now a C++ master
 1. Killer Instinct!
 	- Combo Breaker!
+1. **Brayden:**
+    - The Lazy Noob
+2 -Alexandre Nazario
+    - I turtles 
 1.**Mike Giles**
     - why do i always lose 20 bucks when i gamble, sad panda...
