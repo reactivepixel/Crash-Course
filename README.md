@@ -76,12 +76,11 @@ The objective of this demo project is to simulate a collaborative environment wh
 	- Combo Breaker!
 1. **Brayden:**
     - The Lazy Noob
-
 1. The Kracken
    - Gasp at my destruction!
-2 -Alexandre Nazario
+2  Alexandre Nazario
     - I turtles 
-1.**Mike Giles**
+1. Mike Giles
     - why do i always lose 20 bucks when i gamble, sad panda...
-1. **Brian Pearson:**
+1. Brian Pearson:
     - Note for later: Need an F.
