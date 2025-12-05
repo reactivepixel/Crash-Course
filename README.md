@@ -69,6 +69,8 @@ The objective of this demo project is to simulate a collaborative environment wh
   - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 1. **Chris (Triage has found the One Piece) Chapman:**
     - Now a C++ master
+1. Michael
+    - Baah
 1. Killer Instinct!
 	- Combo Breaker!
 1. **Brayden:**
@@ -79,5 +81,7 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Gasp at my destruction!
 2 -Alexandre Nazario
     - I turtles 
+1.**Mike Giles**
+    - why do i always lose 20 bucks when i gamble, sad panda...
 1. **Brian Pearson:**
     - Note for later: Need an F.
