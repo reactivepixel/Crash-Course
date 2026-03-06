@@ -85,5 +85,10 @@ The objective of this demo project is to simulate a collaborative environment wh
     - why do i always lose 20 bucks when i gamble, sad panda...
 1. Brian Pearson:
     - Note for later: Need an F.
+<<<<<<< HEAD
 17. Diego Cardenas
     - idk what to put here 
+=======
+1. Burgess Doan
+   - How did I git here?
+>>>>>>> af02da58f5c8587fc09b865791fcfe8f3c6625d1
