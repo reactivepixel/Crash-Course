@@ -1,4 +1,4 @@
-﻿## Project: Collaborative README.md Editing and GitHub Workflow Demo
+﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
 
 ### Objective:
