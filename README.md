@@ -85,6 +85,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - why do i always lose 20 bucks when i gamble, sad panda...
 1. Brian Pearson:
     - Note for later: Need an F.
+1. Jacob Braunschweiger
+    - The One Piece is Real!
 2.  Diego Cardenas
     - idk what to put here 
 3. Burgess Doan
