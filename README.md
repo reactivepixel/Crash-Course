@@ -1,4 +1,4 @@
-﻿## Project: Collaborative README.md Editing and GitHub Workflow Demo
+﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
 
 ### Objective:
@@ -87,3 +87,11 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Note for later: Need an F.
 1. Chris Chapman
     - Alive for at least 43
+1. Jacob Braunschweiger
+    - The One Piece is Real!
+2.  Diego Cardenas
+    - idk what to put here 
+3. Burgess Doan
+   - How did I git here?
+4. Chapman
+    - slayer of spires, 2
