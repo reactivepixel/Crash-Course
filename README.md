@@ -76,6 +76,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - and I cheated my way all through thr 3rd grade
 1. Mike Giles
     - why do i always lose 20 bucks when i gamble, sad panda...
+1. Brian Pearson:
+    - Note for later: Need an F.
 2. Brian Pearson:
     - Note for later: Need an F.
 3. Avery Wilson
@@ -96,5 +98,8 @@ The objective of this demo project is to simulate a collaborative environment wh
     - What a Save!
 8. Hiphopapotomus
    - my lyrics are bottomless
+9. **Shaquille Codrington:**
+    - Just a Chill guy
+
 4. Chapman
     - slayer of spires,  kinda
