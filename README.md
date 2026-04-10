@@ -78,6 +78,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - why do i always lose 20 bucks when i gamble, sad panda...
 1. Brian Pearson:
     - Note for later: Need an F.
+
 2. Brian Pearson:
     - Note for later: Need an F.
 3. Avery Wilson
@@ -96,10 +97,16 @@ The objective of this demo project is to simulate a collaborative environment wh
     - I like cars
 7. Nilo Garcia
     - What a Save!
+    - Peaked GC1
 8. Hiphopapotomus
-   - my lyrics are bottomless
+   - my lyrics are bottomless...
 9. **Shaquille Codrington:**
     - Just a Chill guy
+10. Ryan (Heather) Ulmer:
+   - Mudkip is the best starter. Fight me
 
+   - my lyrics are bottomless
+11. Canto III
+   - Through me you go into a city of weeping.
 4. Chapman
     - slayer of spires,  kinda
