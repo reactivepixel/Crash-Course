@@ -88,11 +88,13 @@ The objective of this demo project is to simulate a collaborative environment wh
 6. Burgess Doan
    - How did I git here?
     - Derpy
+4. Chapman
+    - slayer of spires,  kinda
+1. Alex Funez
+    - I like cars
 7. Nilo Garcia
     - What a Save!
 8. Hiphopapotomus
    - my lyrics are bottomless
 4. Chapman
     - slayer of spires,  kinda
-5. Sean Sanford
-    - Coding scares me...
