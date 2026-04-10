@@ -85,3 +85,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - why do i always lose 20 bucks when i gamble, sad panda...
 1. Brian Pearson:
     - Note for later: Need an F.
+1. Chris Chapman
+    - Alive for at least 43
