@@ -85,6 +85,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     - why do i always lose 20 bucks when i gamble, sad panda...
 1. Brian Pearson:
     - Note for later: Need an F.
+1. Avery Wilson
+    - Almost 100 hours in Crimson Desert
+    - Note for later: Need an F.
 1. Chris Chapman
     - Alive for at least 43
 1. Jacob Braunschweiger
@@ -96,5 +99,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Derpy
 4. Chapman
     - slayer of spires,  kinda
+5. Nilo Garcia
+    - What a Save!
 5. Sean Sanford
     - Coding scares me...
