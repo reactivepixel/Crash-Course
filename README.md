@@ -94,4 +94,4 @@ The objective of this demo project is to simulate a collaborative environment wh
 3. Burgess Doan
    - How did I git here?
 4. Chapman
-    - slayer of spires, 2
+    - slayer of spires,  kinda
