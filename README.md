@@ -1,4 +1,4 @@
-﻿## Project: Collaborative README.md Editing and GitHub Workflow Demo
+﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
 
 ### Objective:
@@ -54,29 +54,22 @@ The objective of this demo project is to simulate a collaborative environment wh
 1. **Erick's**
     - Deadly Code Ninja
 1. **Katie:**
-	- The Great
-1. **Chris Chapman:**
-    - Expert knower of da code, for all intents and purposes
-1. **Howdy My name is Chris**⠀⠀⠀⠀⠀⠀
-    - Breaker of Gits⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-1. **Chris (Triage has found the One Piece) Chapman:**
-    - Now a C++ master
-    - naw, hes terribad
-1. **Griffin**
+	- The Great⠀⠀⠀⠀⠀⠀
+2. **Griffin**
    - dih dih ruining everything lalalalal
-1. **Adam Garcia**
+3. **Adam Garcia**
    - I was here
-1. **Isaac Teran**
+4. **Isaac Teran**
    - I am here
-1. **Palodious**
+5. **Palodious**
    - Pew Pew
-1. Michael
+6. Michael
     - Baah
-1. Killer Instinct!
+7. Killer Instinct!
 	- Combo Breaker!
-1. **Brayden:**
+8.  **Brayden:**
     - The Lazy Noob
-1. The Kracken
+9.  The Kracken
    - Gasp at my destruction!
 2  Alexandre Nazario
     - I turtles 
@@ -85,5 +78,21 @@ The objective of this demo project is to simulate a collaborative environment wh
     - why do i always lose 20 bucks when i gamble, sad panda...
 1. Brian Pearson:
     - Note for later: Need an F.
-1. **Shaquille Codrington:**
+2. Brian Pearson:
+    - Note for later: Need an F.
+3. Avery Wilson
+    - Almost 100 hours in Crimson Desert
+    - Note for later: Need an F.
+4. Jacob Braunschweiger
+    - The One Piece is Real!
+5.  Diego Cardenas
+    - idk what to put here 
+6. Burgess Doan
+   - How did I git here?
+    - Derpy
+7. Nilo Garcia
+    - What a Save!
+8. Hiphopapotomus
+   - my lyrics are bottomless
+9. **Shaquille Codrington:**
     - Just a Chill guy
