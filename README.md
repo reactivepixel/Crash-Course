@@ -85,6 +85,12 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Almost 100 hours in Crimson Desert
     - Note for later: Need an F.
 4. Jacob Braunschweiger
+1. Avery Wilson
+    - Almost 100 hours in Crimson Desert
+    - Note for later: Need an F.
+1. Chris Chapman
+    - Alive for at least 43
+1. Jacob Braunschweiger
     - The One Piece is Real!
 5.  Diego Cardenas
     - idk what to put here 
@@ -110,3 +116,7 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Through me you go into a city of weeping.
 4. Chapman
     - slayer of spires,  kinda
+5. Nilo Garcia
+    - What a Save!
+5. Sean Sanford
+    - Coding scares me...
