@@ -98,8 +98,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 7. Nilo Garcia
     - What a Save!
 8. Hiphopapotomus
-   - my lyrics are bottomless
+   - my lyrics are bottomless...
 9. **Shaquille Codrington:**
     - Just a Chill guy
 10. Ryan (Heather) Ulmer:
    - Mudkip is the best starter. Fight me
+
