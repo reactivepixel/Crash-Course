@@ -95,4 +95,4 @@ The objective of this demo project is to simulate a collaborative environment wh
    - How did I git here?
     - Derpy
 4. Chapman
-    - slayer of spires, 2
+    - slayer of spires,  kinda
