@@ -51,59 +51,55 @@ The objective of this demo project is to simulate a collaborative environment wh
 ## Collaborators
 1. **Josh Smith:**
     - Hurricane Fighter
-1. **Erick's**
+2. **Erick's**
     - Deadly Code Ninja
-1. **Katie:**
+3. **Katie:**
 	- The Great⠀⠀⠀⠀⠀⠀
-2. **Griffin**
+4. **Griffin**
    - dih dih ruining everything lalalalal
-3. **Adam Garcia**
+5. **Adam Garcia**
    - I was here
-4. **Isaac Teran**
+6. **Isaac Teran**
    - I am here
-5. **Palodious**
+7. **Palodious**
    - Pew Pew
-6. Michael
+8. **Michael**
     - Baah
-7. Killer Instinct!
+9. **Killer Instinct!**
 	- Combo Breaker!
-8.  **Brayden:**
+10. **Brayden:**
     - The Lazy Noob
-9.  The Kracken
+11. **The Kracken**
    - Gasp at my destruction!
-2  Alexandre Nazario
+12. **Alexandre Nazario**
     - I turtles 
     - and I cheated my way all through thr 3rd grade
-1. Mike Giles
+13. **Mike Giles**
     - why do i always lose 20 bucks when i gamble, sad panda...
-1. Brian Pearson:
+14. **Brian Pearson:**
     - Note for later: Need an F.
-
-2. Brian Pearson:
+15. **Brian Pearson:**
     - Note for later: Need an F.
-3. Avery Wilson
+16. **Avery Wilson**
     - Almost 100 hours in Crimson Desert
-    - Note for later: Need an F.
-4. Jacob Braunschweiger
+17. **Jacob Braunschweiger**
     - The One Piece is Real!
-5.  Diego Cardenas
+18.  **Diego Cardenas**
     - idk what to put here 
-6. Burgess Doan
+19. **Burgess Doan**
    - How did I git here?
     - Derpy
-4. Chapman
+20. **Chapman**
     - slayer of spires,  kinda
-1. Alex Funez
+21. **Alex Funez**
     - I like cars
-7. Nilo Garcia
+22. **Nilo Garcia**
     - What a Save!
-8. Hiphopapotomus
+23. **Hiphopapotomus**
    - my lyrics are bottomless...
-9. **Shaquille Codrington:**
+24. **Shaquille Codrington:**
     - Just a Chill guy
-10. Ryan (Heather) Ulmer:
+25. **Ryan (Heather) Ulmer:**
    - Mudkip is the best starter. Fight me
-
-   - my lyrics are bottomless
-11. Canto III
+26. **Canto III**
    - Through me you go into a city of weeping.
