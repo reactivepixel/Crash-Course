@@ -117,3 +117,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - What a Save!
 5. Sean Sanford
     - Coding scares me...
+19. **Wurde**
+   - It's not a failure if you learn something.
