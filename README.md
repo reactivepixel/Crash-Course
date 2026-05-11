@@ -123,6 +123,8 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I copied the lecture :-)
 0. Chapman
    - Why start with 0?
+0. Too Many Chapmans!
+   - Derp!
 1. Alex Funez:
     - Cars are cool
 17. **Gavin Fredricks**
