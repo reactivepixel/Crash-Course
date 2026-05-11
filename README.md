@@ -119,3 +119,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Coding scares me...
 19. **Wurde**
    - It's not a failure if you learn something.
+0. Chapman
+   - Why start with 0?
