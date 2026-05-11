@@ -122,7 +122,14 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Juno Preston
    - I copied the lecture :-)
 0. Chapman
- - Why start with 0?
- 
- 0. Sean Nunez
+   - Why start with 0?
+0. Sean Nunez
    - Pingas
+0. Too Many Chapmans!
+   - Derp!
+1. Alex Funez:
+    - Cars are cool
+20. Rj
+    - ^ - ^
+17. Gavin Fredricks:
+    - Groundhog Day: The Sequel Dequel
