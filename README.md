@@ -119,3 +119,5 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Coding scares me...
 19. **Wurde**
    - It's not a failure if you learn something.
+1000. Anthony Diaz-Stack
+   - I hope you guys dont mind, I brought a few zeroes.
