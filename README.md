@@ -118,7 +118,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 5. Sean Sanford
     - Coding scares me...
 19. **Wurde**
-- It's not a failure if you learn something.
+   - It's not a failure if you learn something.
 0. Juno Preston
    - I copied the lecture :-)
 0. Chapman
@@ -127,7 +127,5 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Derp!
 1. Alex Funez:
     - Cars are cool
-17. **Gavin Fredricks**
-    - Groundhog Day: The Sequel Dequel
-1b. Juno Preston
-    - A second message?
+20. Rj
+    - ^ - ^
