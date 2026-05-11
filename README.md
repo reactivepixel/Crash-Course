@@ -122,4 +122,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Juno Preston
    - I copied the lecture :-)
 0. Chapman
-   - Why start with 0?
+ - Why start with 0?
+ 
+ 0. Sean Nunez
+   - Pingas
