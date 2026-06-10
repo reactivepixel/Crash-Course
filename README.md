@@ -152,4 +152,9 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I hope you guys dont mind, I brought a few zeroes.
 548. Jeremy Dusablon
     - Who's this guy?
+<<<<<<< HEAD
 >>>>>>> 033baa656c774aef6024c71789bed8505b6d102c
+=======
+    Ray Blanco
+    -Oshawott is the best
+>>>>>>> 06a0b31fb6cf8d3e501b20ed266c6c63a4fc68ff
