@@ -122,6 +122,21 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Juno Preston
    - I copied the lecture :-)
 0. Chapman
+<<<<<<< HEAD
+ - Why start with 0?
+ 
+ 0. Sean Nunez
+   - Pingas
+
+33. David FlameBorne Fulmer
+  -  I don’t follow the fire. I was forged in it.
+ 
+130. Austin Cross
+    - Aspiring Chaos Contributor
+
+192. Alan Bell
+    - Let go!
+=======
    - Why start with 0?
 0. Sean Nunez
    - Pingas
@@ -137,5 +152,9 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I hope you guys dont mind, I brought a few zeroes.
 548. Jeremy Dusablon
     - Who's this guy?
+<<<<<<< HEAD
 0.0.1. Timothy Joseph
     - Still in pre-Alpha
+    Ray Blanco
+    -Oshawott is the best
+
