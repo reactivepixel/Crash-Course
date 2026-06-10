@@ -122,35 +122,34 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Juno Preston
    - I copied the lecture :-()
 0. Chapman
-<<<<<<< HEAD
  - Why start with 0?
  
- 0. Sean Nunez
+ 1. Sean Nunez
    - Pingas
 
-33. David FlameBorne Fulmer
+1.  David FlameBorne Fulmer
   -  I don’t follow the fire. I was forged in it.
  
-130. Austin Cross
+2.   Austin Cross
     - Aspiring Chaos Contributor
 
-192. Alan Bell
-    - Let go!
-=======
-   - Why start with 0?
-0. Sean Nunez
+3.   Alan Bell
+     - Let go!
+     - Why start with 0?
+     - Please double my fees to take this class, signed - Alan, thanks!
+4. Sean Nunez
    - Pingas
-0. Too Many Chapmans!
+5. Too Many Chapmans!
    - Derp!
-1. Alex Funez:
+6. Alex Funez:
     - Cars are cool
-20. Rj
+7.  Rj
     - ^ - ^
-17. Gavin Fredricks:
+8.  Gavin Fredricks:
     - Groundhog Day: The Sequel Dequel
-1000. Anthony Diaz-Stack
+9.    Anthony Diaz-Stack
    - I hope you guys dont mind, I brought a few zeroes.
-548. Jeremy Dusablon
+10.  Jeremy Dusablon
     - Who's this guy?
 
 0.0.1. Timothy Joseph
