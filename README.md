@@ -132,3 +132,6 @@ The objective of this demo project is to simulate a collaborative environment wh
  
 130. Austin Cross
     - Aspiring Chaos Contributor
+
+192. Alan Bell
+    - Let go!
