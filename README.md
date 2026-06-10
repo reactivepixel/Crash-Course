@@ -152,7 +152,6 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I hope you guys dont mind, I brought a few zeroes.
 548. Jeremy Dusablon
     - Who's this guy?
-<<<<<<< HEAD
 0.0.1. Timothy Joseph
     - Still in pre-Alpha
     Ray Blanco
