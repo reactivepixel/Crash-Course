@@ -138,7 +138,23 @@ The objective of this demo project is to simulate a collaborative environment wh
      - Why start with 0?
      - Please double my fees to take this class, signed - Alan, thanks!
 4. Sean Nunez
+   - Why start with 0?
+ 
+1. Sean Nunez
    - Pingas
+5. Too Many Chapmans!
+
+1.  David FlameBorne Fulmer
+   - I don’t follow the fire. I was forged in it.
+ 
+2.   Austin Cross
+    - Aspiring Chaos Contributor
+
+3.   Alan Bell
+     - Let go!
+     - Why start with 0?
+     - Please double my fees to take this class, signed - Alan, thanks!
+
 5. Too Many Chapmans!
    - Derp!
 6. Alex Funez:
@@ -173,6 +189,52 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 2. Frosty
    - He not truthful
+1. Timothy Joseph
+    - Still in pre-Alpha
+
+    Ray Blanco
+    -Oshawott is the best
+
+0. Gabriel Franco 
+    - Wombo Combo
+    - Piplup
+
+1. Chapman
+   - In here again
+   
+2. Dustin Dean
+   - Was Here
+
+1. Chapman (the last time  iswaear)
+   - Totally not lying
+
+2. Frosty
+   - He not truthful
+
+23. Frost Ryzen
+    - Stay Frosty
+33. David FlameBorne Fulmer
+  -  I don’t follow the fire. I was forged in it.
+ 
+130. Austin Cross
+    - Aspiring Chaos Contributor
 
 1. Chapman2nd (maybe i was lying)
    - da best
+131. James Baumeister
+    - Professional bug creator
+
+1. Chapman2nd (maybe i was lying)
+   - da best
+
+3. Tameka Roberson
+   - Anime Is Life
+   - Gaming Is A Luxury
+
+4. Justin Lewis
+   - Ark survival evolved the best survival game
+
+5. Gabriel Franco 
+    - Leroy Jenkins!
+6. Christopher Stefanese
+   - alive
