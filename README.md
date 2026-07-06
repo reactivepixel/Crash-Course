@@ -122,6 +122,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Juno Preston
    - I copied the lecture :-()
 0. Chapman
+<<<<<<< HEAD
  - Why start with 0?
  
  1. Sean Nunez
@@ -138,6 +139,10 @@ The objective of this demo project is to simulate a collaborative environment wh
      - Why start with 0?
      - Please double my fees to take this class, signed - Alan, thanks!
 4. Sean Nunez
+=======
+   - Why start with 0?
+0. Sean Nunez
+>>>>>>> origin
    - Pingas
 5. Too Many Chapmans!
    - Derp!
@@ -152,6 +157,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 10.  Jeremy Dusablon
     - Who's this guy?
 
+<<<<<<< HEAD
 0.0.1. Timothy Joseph
     - Still in pre-Alpha
 
@@ -180,3 +186,15 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 3. Gabriel Franco
    - Leroy Jenkins!
+=======
+23. Frost Ryzen
+    - Stay Frosty
+33. David FlameBorne Fulmer
+  -  I don’t follow the fire. I was forged in it.
+ 
+130. Austin Cross
+    - Aspiring Chaos Contributor
+
+131. James Baumeister
+    - Professional bug creator
+>>>>>>> origin
