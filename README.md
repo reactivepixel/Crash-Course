@@ -178,14 +178,13 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 =======
 1. Chapman (the last time  iswaear)
-  - Totally not lying
+   - Totally not lying
 
 2. Frosty
    - He not truthful
+<<<<<<< HEAD
 >>>>>>> 1316afb77411d960453deb9a9368c5521896b5eb
 
-3. Gabriel Franco
-   - Leroy Jenkins!
 =======
 23. Frost Ryzen
     - Stay Frosty
@@ -198,3 +197,15 @@ The objective of this demo project is to simulate a collaborative environment wh
 131. James Baumeister
     - Professional bug creator
 >>>>>>> origin
+=======
+
+1. Chapman2nd (maybe i was lying)
+   - da best
+
+3. Tameka Roberson
+   - Anime Is Life
+   - Gaming Is A Luxury
+>>>>>>> 79ee484e30e8d641d1ada1e25941748e8323acc1
+
+4. Gabriel Franco 
+    - Leroy Jenkins!
