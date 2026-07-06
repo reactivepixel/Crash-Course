@@ -169,7 +169,10 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Was Here
 
 1. Chapman (the last time  iswaear)
-  - Totally not lying
+   - Totally not lying
+
+2. Frosty
+   - He not truthful
 
 1. Chapman2nd (maybe i was lying)
-  - da best
+   - da best
