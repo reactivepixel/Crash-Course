@@ -299,3 +299,6 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Leroy Jenkins!
 6. Christopher Stefanese
    - alive
+
+7. Christian Freeman
+   - No mind to think. No will to break. No voice to cry suffering.
