@@ -170,3 +170,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 1. Chapman (the last time  iswaear)
   - Totally not lying
+
+1. Chapman2nd (maybe i was lying)
+  - da best
