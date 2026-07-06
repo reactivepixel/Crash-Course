@@ -176,3 +176,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 1. Chapman2nd (maybe i was lying)
    - da best
+
+3. Tameka Roberson
+   - Anime Is Life
+   - Gaming Is A Luxury
