@@ -1,6 +1,6 @@
 ﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
-
+![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
 ### Objective:
 The objective of this demo project is to simulate a collaborative environment where multiple developers will work on individual sections of a README.md file. The README.md file will then go through various stages of development using GitHub workflow, including branching, merging, and pull requests, ultimately leading to a tagged release on the master branch.
 
@@ -138,10 +138,17 @@ The objective of this demo project is to simulate a collaborative environment wh
      - Why start with 0?
      - Please double my fees to take this class, signed - Alan, thanks!
 4. Sean Nunez
+
+3.   Alan Bell
+     - Let go!
+     - Why start with 0?
+     - Please double my fees to take this class, signed - Alan, thanks!
+4. Sean Nunez
    - Why start with 0?
  
 1. Sean Nunez
    - Pingas
+5. Too Many Chapmans!
 5. Too Many Chapmans!
 
 1.  David FlameBorne Fulmer
@@ -167,6 +174,38 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I hope you guys dont mind, I brought a few zeroes.
 10.  Jeremy Dusablon
     - Who's this guy?
+
+0.0.1. Timothy Joseph
+    - Still in pre-Alpha
+
+    Ray Blanco
+    -Oshawott is the best
+
+0. Gabriel Franco 
+    - Wombo Combo
+    - Piplup
+
+1. Chapman
+   - In here again
+   
+2. Dustin Dean
+   - Was Here
+
+1. Chapman (the last time  iswaear)
+   - Totally not lying
+
+2. Frosty
+   - He not truthful
+
+1. Chapman2nd (maybe i was lying)
+   - da best
+
+3. Tameka Roberson
+   - Anime Is Life
+   - Gaming Is A Luxury
+
+4. Justin Lewis
+   - Ark survival evolved the best survival game
 
 0.0.1. Timothy Joseph
     - Still in pre-Alpha
