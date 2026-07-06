@@ -205,7 +205,15 @@ The objective of this demo project is to simulate a collaborative environment wh
 3. Tameka Roberson
    - Anime Is Life
    - Gaming Is A Luxury
+<<<<<<< HEAD
 >>>>>>> 79ee484e30e8d641d1ada1e25941748e8323acc1
 
-4. Gabriel Franco 
+
+=======
+
+4. Justin Lewis
+   - Ark survival evolved the best survival game
+>>>>>>> 0b4e5696d839aa2be7927193ec5715375c1519e2
+
+5. Gabriel Franco 
     - Leroy Jenkins!
