@@ -122,7 +122,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Juno Preston
    - I copied the lecture :-()
 0. Chapman
-<<<<<<< HEAD
+
  - Why start with 0?
  
  1. Sean Nunez
@@ -139,10 +139,10 @@ The objective of this demo project is to simulate a collaborative environment wh
      - Why start with 0?
      - Please double my fees to take this class, signed - Alan, thanks!
 4. Sean Nunez
-=======
+
    - Why start with 0?
 0. Sean Nunez
->>>>>>> origin
+
    - Pingas
 5. Too Many Chapmans!
    - Derp!
@@ -157,8 +157,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 10.  Jeremy Dusablon
     - Who's this guy?
 
-<<<<<<< HEAD
-0.0.1. Timothy Joseph
+
+1. Timothy Joseph
     - Still in pre-Alpha
 
     Ray Blanco
@@ -174,18 +174,12 @@ The objective of this demo project is to simulate a collaborative environment wh
 2. Dustin Dean
    - Was Here
 
-<<<<<<< HEAD
-
-=======
 1. Chapman (the last time  iswaear)
    - Totally not lying
 
 2. Frosty
    - He not truthful
-<<<<<<< HEAD
->>>>>>> 1316afb77411d960453deb9a9368c5521896b5eb
 
-=======
 23. Frost Ryzen
     - Stay Frosty
 33. David FlameBorne Fulmer
@@ -196,8 +190,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 131. James Baumeister
     - Professional bug creator
->>>>>>> origin
-=======
 
 1. Chapman2nd (maybe i was lying)
    - da best
@@ -205,15 +197,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 3. Tameka Roberson
    - Anime Is Life
    - Gaming Is A Luxury
-<<<<<<< HEAD
->>>>>>> 79ee484e30e8d641d1ada1e25941748e8323acc1
-
-
-=======
 
 4. Justin Lewis
    - Ark survival evolved the best survival game
->>>>>>> 0b4e5696d839aa2be7927193ec5715375c1519e2
 
 5. Gabriel Franco 
     - Leroy Jenkins!
