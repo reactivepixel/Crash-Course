@@ -167,3 +167,6 @@ The objective of this demo project is to simulate a collaborative environment wh
    
 2. Dustin Dean
    - Was Here
+
+3. Gabriel Franco
+   - Leroy Jenkins!
