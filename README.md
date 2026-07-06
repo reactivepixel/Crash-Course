@@ -167,3 +167,6 @@ The objective of this demo project is to simulate a collaborative environment wh
    
 2. Dustin Dean
    - Was Here
+
+1. Chapman (the last time  iswaear)
+  - Totally not lying
