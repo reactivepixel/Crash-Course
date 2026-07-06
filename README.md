@@ -138,7 +138,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 548. Jeremy Dusablon
     - Who's this guy?
 
-
+23. Frost Ryzen
+    - Stay Frosty
 33. David FlameBorne Fulmer
   -  I don’t follow the fire. I was forged in it.
  
