@@ -455,7 +455,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 7. Christian Freeman
    - No mind to think. No will to break. No voice to cry suffering.
-   - alive
 
 8. Sincere Noel
    - What put here?
