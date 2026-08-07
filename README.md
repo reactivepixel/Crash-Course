@@ -333,6 +333,10 @@ The objective of this demo project is to simulate a collaborative environment wh
    - I hope you guys dont mind, I brought a few zeroes.
 10.  Jeremy Dusablon
     - Who's this guy?
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5cf6c14aee4d73d3d6136d497fa1f62049faacfe
 
 
 1. Timothy Joseph
@@ -411,7 +415,13 @@ The objective of this demo project is to simulate a collaborative environment wh
 2. Frosty
    - He not truthful
 
+<<<<<<< HEAD
 ![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
+=======
+=======
+![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
+>>>>>>> feature/Hardy
+>>>>>>> 5cf6c14aee4d73d3d6136d497fa1f62049faacfe
 23. Frost Ryzen
     - Stay Frosty
 33. David FlameBorne Fulmer
@@ -423,6 +433,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 131. James Baumeister
     - Professional bug creator
 
+<<<<<<< HEAD
 23. Frost Ryzen
     - Stay Frosty
 33. David FlameBorne Fulmer
@@ -472,5 +483,14 @@ The objective of this demo project is to simulate a collaborative environment wh
     - 1 part vodka
     - 1 lemon
 
+<<<<<<< HEAD
 23. Logon OBrien
     - Logon was here to stay
+=======
+999. Tristan Day
+    - Ballin' RedHead
+=======
+42. Noah Hardy
+    - DOOR STUCK!
+>>>>>>> feature/Hardy
+>>>>>>> 5cf6c14aee4d73d3d6136d497fa1f62049faacfe
