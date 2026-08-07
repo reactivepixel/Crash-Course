@@ -483,14 +483,16 @@ The objective of this demo project is to simulate a collaborative environment wh
     - 1 part vodka
     - 1 lemon
 
-<<<<<<< HEAD
+
 23. Logon OBrien
     - Logon was here to stay
-=======
+
 999. Tristan Day
     - Ballin' RedHead
-=======
+
+67. Kevin Gray
+    - Can you see all of me? Walk into my mystery?
+
 42. Noah Hardy
-    - DOOR STUCK!
->>>>>>> feature/Hardy
->>>>>>> 5cf6c14aee4d73d3d6136d497fa1f62049faacfe
+    - DOOR STUCK!!
+
