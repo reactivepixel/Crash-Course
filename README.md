@@ -148,3 +148,5 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 131. James Baumeister
     - Professional bug creator
+
+132. Larry Washington
