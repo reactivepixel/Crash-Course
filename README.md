@@ -461,7 +461,10 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 0. Chapman
     - Derping it since '83
+  
+0. Hobo stew
+    - Potatoes and meat, add butter, hold hte garbage
 
 0. Distingused gentleman
-   - 1 part vodka
-   - 1 lemon
+    - 1 part vodka
+    - 1 lemon
