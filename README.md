@@ -461,3 +461,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 0. Chapman
     - Derping it since '83
+  
+0. Hobo stew
+    - Potatoes and meat, add butter, hold hte garbage
