@@ -411,6 +411,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 2. Frosty
    - He not truthful
 
+![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
+
 23. Frost Ryzen
     - Stay Frosty
 33. David FlameBorne Fulmer
@@ -458,6 +460,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 8. Sincere Noel
    - What put here?
+132. Logon OBrien
+    - test subject
 
 0. Chapman
     - Derping it since '83
@@ -470,4 +474,14 @@ The objective of this demo project is to simulate a collaborative environment wh
    - 1 lemon
 
 999. Tristan Day
-   - Ballin' RedHead
+    - Ballin' Redhead
+
+23. Logon OBrien
+    - Logon was here to stay
+    
+67. Kevin Gray
+    - Can you see all of me? Walk into my mystery?
+
+42. Noah Hardy
+    - DOOR STUCK!
+
