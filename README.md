@@ -1,4 +1,4 @@
-﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
+## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
 ![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
 ### Objective:
@@ -487,5 +487,13 @@ The objective of this demo project is to simulate a collaborative environment wh
 131. Michael
     - [He doesn't even go here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5mnBoMjoEzagTDrmbUikqrp93gECqVhJv9YemX4M7NcX96khVRF4LgzM&s=10)!
 132. Larry Washington
+<<<<<<< HEAD
+
+64. Michael Lewis-Pryce
+|   -Sleepy Coder.
+=======
+  1. Trenten Braxton
   2. Michael Prado
      -OH NO BRO
+  3. Shawn Tunningley
+>>>>>>> 013275b0796b63455c18c9a0dc4761d6f436d7ee
