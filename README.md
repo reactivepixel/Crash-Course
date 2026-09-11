@@ -488,6 +488,7 @@ The objective of this demo project is to simulate a collaborative environment wh
     - [He doesn't even go here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5mnBoMjoEzagTDrmbUikqrp93gECqVhJv9YemX4M7NcX96khVRF4LgzM&s=10)!
 132. Larry Washington
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 64. Michael Lewis-Pryce
 |   -Sleepy Coder.
@@ -497,6 +498,3 @@ The objective of this demo project is to simulate a collaborative environment wh
      -OH NO BRO
   3. Shawn Tunningley
 >>>>>>> 013275b0796b63455c18c9a0dc4761d6f436d7ee
-
-150. **Dap iguez**
-     - Daph was here
