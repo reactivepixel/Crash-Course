@@ -484,9 +484,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 42. Noah Hardy
     - DOOR STUCK!!
-
+131. Michael
+    - [He doesn't even go here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5mnBoMjoEzagTDrmbUikqrp93gECqVhJv9YemX4M7NcX96khVRF4LgzM&s=10)!
 132. Larry Washington
-  1. Trenten Braxton
   2. Michael Prado
      -OH NO BRO
-  3. Shawn Tunningley
