@@ -486,6 +486,13 @@ The objective of this demo project is to simulate a collaborative environment wh
     - DOOR STUCK!!
 
 132. Larry Washington
+<<<<<<< HEAD
 
 64. Michael Lewis-Pryce
 |   -Sleepy Coder.
+=======
+  1. Trenten Braxton
+  2. Michael Prado
+     -OH NO BRO
+  3. Shawn Tunningley
+>>>>>>> 013275b0796b63455c18c9a0dc4761d6f436d7ee
