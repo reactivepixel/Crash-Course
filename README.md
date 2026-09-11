@@ -1,4 +1,4 @@
-﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
+## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
 ![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
 ### Objective:
@@ -486,3 +486,6 @@ The objective of this demo project is to simulate a collaborative environment wh
     - DOOR STUCK!!
 
 132. Larry Washington
+
+64. Michael Lewis-Pryce
+|   -Sleepy Coder.
