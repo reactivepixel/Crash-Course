@@ -487,6 +487,8 @@ The objective of this demo project is to simulate a collaborative environment wh
 133. xxx
 133. Chapman
     - Not as rich as Bruce wayne, might be as crazy
-    - 
-134. Christian Milano La Riva
+
+134. Brianna Shaw
+
+135. Christian Milano La Riva
     - Come on, cuh! 
