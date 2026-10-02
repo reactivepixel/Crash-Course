@@ -501,7 +501,7 @@ The objective of this demo project is to simulate a collaborative environment wh
  1. :-)
 
 81. Johan Rodas-Piedrahita
-=======
+
 132. Larry Washington
 133. xxx
 133. Chapman
@@ -514,4 +514,4 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 135. Christian Milano La Riva
     - Come on, cuh! 
->>>>>>> ecd2b048fb2afc3e51b35112b5458bdcad5004d8
+
