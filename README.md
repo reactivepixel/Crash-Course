@@ -460,8 +460,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 8. Sincere Noel
    - What put here?
-132. Logon OBrien
-    - test subject
 
 0. Chapman
     - Derping it since '83
@@ -469,19 +467,23 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Hobo stew
     - Potatoes and meat, add butter, hold hte garbage
 
-0. Dustingised gentleman
+0. Distinguished gentleman
    - 1 part vodka
    - 1 lemon
+
+2. Tristan Day
+    - Ballin' RedHead
 
 23. Logon OBrien
     - Logon was here to stay
 
-999. Tristan Day
-    - Ballin' RedHead
+42. Noah Hardy
+    - DOOR STUCK!!
 
 67. Kevin Gray
     - Can you see all of me? Walk into my mystery?
 
+<<<<<<< HEAD
 42. Noah Hardy
     - DOOR STUCK!!
 131. Michael
@@ -499,3 +501,14 @@ The objective of this demo project is to simulate a collaborative environment wh
  1. :-)
 
 81. Johan Rodas-Piedrahita
+=======
+132. Larry Washington
+133. xxx
+133. Chapman
+    - Not as rich as Bruce wayne, might be as crazy
+
+134. Brianna Shaw
+
+135. Christian Milano La Riva
+    - Come on, cuh! 
+>>>>>>> ecd2b048fb2afc3e51b35112b5458bdcad5004d8
