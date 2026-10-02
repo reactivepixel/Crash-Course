@@ -483,15 +483,7 @@ The objective of this demo project is to simulate a collaborative environment wh
 67. Kevin Gray
     - Can you see all of me? Walk into my mystery?
 
-132. Larry Washington
-133. xxx
-133. Chapman
-    - Not as rich as Bruce wayne, might be as crazy
-134. Tevin Embry
-    - WAR, war never changes.
-    - Not as rich as Bruce wayne, might be as crazy
-
-134. Brianna Shaw
+<<<<<<< HEAD
 42. Noah Hardy
     - DOOR STUCK!!
 131. Michael
@@ -507,6 +499,23 @@ The objective of this demo project is to simulate a collaborative environment wh
      -OH NO BRO
   3. Shawn Tunningley
 
+13. Gregory Pelletier
+ 1. :-)
+
+81. Johan Rodas-Piedrahita
+
+132. Larry Washington
+133. xxx
+133. Chapman
+    - Not as rich as Bruce wayne, might be as crazy
+134. Tevin Embry
+    - WAR, war never changes.
+    - Not as rich as Bruce wayne, might be as crazy
+
+134. Brianna Shaw
+
+135. Christian Milano La Riva
+    - Come on, cuh! 
 
  1. Jerry McKay
  1. 'was here'
