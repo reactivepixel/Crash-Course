@@ -483,25 +483,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 67. Kevin Gray
     - Can you see all of me? Walk into my mystery?
 
-<<<<<<<<< Temporary merge branch 1
-42. Noah Hardy
-    - DOOR STUCK!!
-131. Michael
-    - [He doesn't even go here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5mnBoMjoEzagTDrmbUikqrp93gECqVhJv9YemX4M7NcX96khVRF4LgzM&s=10)!
-132. Larry Washington
-64. Michael Lewis-Pryce
-|   -Sleepy Coder.
-
-135. Christian Milano La Riva
-    - Come on, cuh! 
-  1. Trenten Braxton
-  2. Michael Prado
-     -OH NO BRO
-  3. Shawn Tunningley
-
-13. Gregory Pelletier
- 1. :-)
-
 81. Johan Rodas-Piedrahita
 
 132. Larry Washington
@@ -516,6 +497,9 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 135. Christian Milano La Riva
     - Come on, cuh! 
+  
+136. Jacob Alvarado
+   - Knock Knock It's Knuckles
 
  1. Jerry McKay
  1. 'was here'
