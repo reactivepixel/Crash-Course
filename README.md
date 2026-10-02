@@ -1,4 +1,4 @@
-﻿## Project: Collaborative README.md Editing and GitHub Workflow Demox
+## Project: Collaborative README.md Editing and GitHub Workflow Demox
 ##### Last Updated: 2024-03-13
 ![Surprise](https://media.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
 ### Objective:
@@ -483,9 +483,21 @@ The objective of this demo project is to simulate a collaborative environment wh
 67. Kevin Gray
     - Can you see all of me? Walk into my mystery?
 
+81. Johan Rodas-Piedrahita
+
 132. Larry Washington
 133. xxx
 133. Chapman
     - Not as rich as Bruce wayne, might be as crazy
+134. Tevin Embry
+    - WAR, war never changes.
+    - Not as rich as Bruce wayne, might be as crazy
+
 134. Brianna Shaw
     - :3
+135. Christian Milano La Riva
+    - Come on, cuh! 
+  
+136. Jacob Alvarado
+   - Knock Knock It's Knuckles
+
