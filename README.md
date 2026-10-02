@@ -460,8 +460,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 8. Sincere Noel
    - What put here?
-132. Logon OBrien
-    - test subject
 
 0. Chapman
     - Derping it since '83
@@ -469,34 +467,36 @@ The objective of this demo project is to simulate a collaborative environment wh
 0. Hobo stew
     - Potatoes and meat, add butter, hold hte garbage
 
-0. Dustingised gentleman
+0. Distinguished gentleman
    - 1 part vodka
    - 1 lemon
+
+2. Tristan Day
+    - Ballin' RedHead
 
 23. Logon OBrien
     - Logon was here to stay
 
-999. Tristan Day
-    - Ballin' RedHead
+42. Noah Hardy
+    - DOOR STUCK!!
 
 67. Kevin Gray
     - Can you see all of me? Walk into my mystery?
 
-42. Noah Hardy
-    - DOOR STUCK!!
-131. Michael
-    - [He doesn't even go here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5mnBoMjoEzagTDrmbUikqrp93gECqVhJv9YemX4M7NcX96khVRF4LgzM&s=10)!
+81. Johan Rodas-Piedrahita
+
 132. Larry Washington
-64. Michael Lewis-Pryce
-|   -Sleepy Coder.
+133. xxx
+133. Chapman
+    - Not as rich as Bruce wayne, might be as crazy
+134. Tevin Embry
+    - WAR, war never changes.
+    - Not as rich as Bruce wayne, might be as crazy
 
-  1. Trenten Braxton
-  2. Michael Prado
-     -OH NO BRO
-  3. Shawn Tunningley
+134. Brianna Shaw
 
-13. Gregory Pelletier
- 1. :-)
-
-63. Jacob Alvarado
+135. Christian Milano La Riva
+    - Come on, cuh! 
+  
+136. Jacob Alvarado
    - Knock Knock It's Knuckles
