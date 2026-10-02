@@ -489,3 +489,9 @@ The objective of this demo project is to simulate a collaborative environment wh
     - Not as rich as Bruce wayne, might be as crazy
 134. Tevin Embry
     - WAR, war never changes.
+    - Not as rich as Bruce wayne, might be as crazy
+
+134. Brianna Shaw
+
+135. Christian Milano La Riva
+    - Come on, cuh! 
