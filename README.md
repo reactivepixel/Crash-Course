@@ -483,7 +483,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 67. Kevin Gray
     - Can you see all of me? Walk into my mystery?
 
-<<<<<<< HEAD
 42. Noah Hardy
     - DOOR STUCK!!
 131. Michael
