@@ -495,14 +495,15 @@ The objective of this demo project is to simulate a collaborative environment wh
 
 134. Brianna Shaw
     - :3
+
 135. Christian Milano La Riva
     - Come on, cuh! 
   
 136. Jacob Alvarado
-   - Knock Knock It's Knuckles
+    - Knock Knock It's Knuckles
 
 137. Jerry McKay
-   - 'was here'
+    - 'was here'
 
 138. Chapman
     - Howdy all, having a good time?
@@ -510,8 +511,14 @@ The objective of this demo project is to simulate a collaborative environment wh
 139. Aidyn
     - This is the greatest plan and nothing can go wrong
 
-140.Slater
-   - AC Slater is saved by the bell
+140. slater
+    - AC Slater is saved by the bell
+   
+141. Evan
+    - Mmmmm Im a microwave Mmmmmmm beep beep
+
+141. Smith
+    - Agent smith was a virus all along
 
 141. Ian
    - Splatoon boyo
