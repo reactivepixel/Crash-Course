@@ -510,5 +510,6 @@ The objective of this demo project is to simulate a collaborative environment wh
 139. Aidyn
     - This is the greatest plan and nothing can go wrong
 
-140.Slater
+140. slater
    - AC Slater is saved by the bell
+   
