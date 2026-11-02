@@ -502,7 +502,10 @@ The objective of this demo project is to simulate a collaborative environment wh
    - Knock Knock It's Knuckles
 
 137. Jerry McKay
-     'was here'
+   - 'was here'
 
 138. Chapman
-    Howdy all, having a good time?
+   - Howdy all, having a good time?
+
+139. Slater
+   - AC Slater is saved by the bell
